@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm João Araújo! 👋
 
-<!--
-**araujojv/araujojv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a keen focus on Python, backend development, data engineering, and machine learning. I love experimenting with new technologies and building innovative solutions to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java
+- **Backend:** Flask, FastAPI
+- **Data Engineering:** Pandas, NumPy, Apache Spark
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **DevOps:** Docker, CI/CD, Azure
+- **Testing:** PyTest, Unittest
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning techniques
+- Data Science with Python
+- Cloud Data Engineering
+
+## 📫 How to reach me
+
+- **Email:** joaoaraujo.vitor@hotmail.com
+- **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-araujo-476242238/
+
+
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to say hi. 😊
+```` ▋
